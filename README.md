@@ -60,11 +60,11 @@ Travis 使用 https://launchpad.net/~beineri 提供的源来安装Qt
 
 | 作者 | ZPJ                           |
 | ---- | -------------------------------- |
-|开发理念 | 弘扬鲁班文化，传承工匠精神 |
+|开发理念 | 自由而无用的灵魂 |
 | QQ、TIM   | 498117725                  |
 | 微信 | Zhou_Pengju                       |
 | 邮箱 | 498117725@qq.com                |
-| blog | www://zhoupengju.cn |
+| blog | www.zhoupengju.cn |
 
 <!-- ***
 
