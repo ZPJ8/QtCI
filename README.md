@@ -15,19 +15,19 @@
 | :---------------: | :-----------------: | :-----------------:|:-----------------: |:-----------------: |
 | ![lin-badge]      | ![win-badge]        | ![license-badge] |![release-badge] | ![download-badge]|
 
-[lin-badge]: https://travis-ci.org/jaredtao/HelloCI.svg?branch=master "Travis build status"
-[lin-link]: https://travis-ci.org/jaredtao/HelloCI "Travis build status"
+[lin-badge]: https://travis-ci.org/ZPJ8/QtCI.svg?branch=master "Travis build status"
+[lin-link]: https://travis-ci.org/ZPJ8/QtCI "Travis build status"
 [win-badge]: https://ci.appveyor.com/api/projects/status/yykx4xufxtrax1hi?svg=true "AppVeyor build status"
 [win-link]: https://ci.appveyor.com/project/jiawentao/helloci "AppVeyor build status"
-[release-link]: https://github.com/jaredtao/HelloCI/releases "Release status"
-[release-badge]: https://img.shields.io/github/release/jaredtao/HelloCI.svg?style=flat-square" "Release status"
-[download-link]: https://github.com/jaredtao/HelloCI/releases/latest "Download status"
-[download-badge]: https://img.shields.io/github/downloads/jaredtao/HelloCI/total.svg?style=flat-square "Download status"
-[license-link]: https://github.com/jaredtao/HelloCI/blob/master/LICENSE "LICENSE"
+[release-link]: https://github.com/ZPJ8/QtCI/releases "Release status"
+[release-badge]: https://img.shields.io/github/release/ZPJ8/QtCI.svg?style=flat-square" "Release status"
+[download-link]: https://github.com/ZPJ8/QtCI/releases/latest "Download status"
+[download-badge]: https://img.shields.io/github/downloads/ZPJ8/QtCI/total.svg?style=flat-square "Download status"
+[license-link]: https://github.com/ZPJ8/QtCI/blob/master/LICENSE "LICENSE"
 [license-badge]: https://img.shields.io/badge/license-MIT-blue.svg "MIT"
 ## support
-[![GitHub Issues](https://img.shields.io/badge/github-issues-red.svg?maxAge=60)](https://github.com/jaredtao/HelloCI/issues)
-[![GitHub Wiki](https://img.shields.io/badge/github-wiki-181717.svg?maxAge=60)](https://github.com/jaredtao/HelloCI/wiki)
+[![GitHub Issues](https://img.shields.io/badge/github-issues-red.svg?maxAge=60)](https://github.com/ZPJ8/QtCI/issues)
+[![GitHub Wiki](https://img.shields.io/badge/github-wiki-181717.svg?maxAge=60)](https://github.com/ZPJ8/QtCI/wiki)
 ## Appveyor
 Appveyor 支持 Qt5.9 至 5.12 包含vs2015/vs2017 x86/x64
 
