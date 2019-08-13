@@ -18,7 +18,7 @@
 [lin-badge]: https://travis-ci.org/ZPJ8/QtCI.svg?branch=master "Travis build status"
 [lin-link]: https://travis-ci.org/ZPJ8/QtCI "Travis build status"
 [win-badge]: https://ci.appveyor.com/api/projects/status/yykx4xufxtrax1hi?svg=true "AppVeyor build status"
-[win-link]: https://ci.appveyor.com/project/jiawentao/helloci "AppVeyor build status"
+[win-link]: https://ci.appveyor.com/project/ZPJ8/QtCI "AppVeyor build status"
 [release-link]: https://github.com/ZPJ8/QtCI/releases "Release status"
 [release-badge]: https://img.shields.io/github/release/ZPJ8/QtCI.svg?style=flat-square" "Release status"
 [download-link]: https://github.com/ZPJ8/QtCI/releases/latest "Download status"
